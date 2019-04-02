@@ -13,12 +13,11 @@ mais c’est une somme de chose qui mis bout à bout font que la maison devient via
 Et pour au final faire passer cette maison classé G à un niveau plus acceptable (entre B et C pour l’instant).
 
 
-Le git est donc actuellement un gros pdf que je découperais par la suite en sujets divers :
-- Isolation
+Le git est découpé en plusieurs pdf :
+- Isolation / Ventilation
 - Eau
-- Ventilation
-- Domotique
 - Production d'énergie. 
+- Domotique ( A faire ) 
 ....
 
 
